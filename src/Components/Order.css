@@ -1,0 +1,23 @@
+
+#order_img
+{
+ width: 400px;
+ 
+}
+#Order_h1
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;  
+}
+#button
+{
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+#span_words
+{
+    color:green;
+}
